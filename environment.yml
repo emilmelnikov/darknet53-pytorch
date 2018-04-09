@@ -1,0 +1,7 @@
+name: darknet53-pytorch
+channels:
+  - pytorch
+dependencies:
+  - python=3.6
+  - pytorch=0.3
+  - torchvision=0.2
